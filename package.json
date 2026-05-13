@@ -52,7 +52,7 @@
     "@types/react-dom": "^19.2.3",
     "@vitest/coverage-v8": "^2.1.8",
     "autoprefixer": "^10.0.1",
-    "eslint": "^9",
+    "eslint": "^10",
     "eslint-config-next": "16.2.4",
     "husky": "^9.1.7",
     "postcss": "^8",
